@@ -25,6 +25,7 @@ def ceshi5():
 	print('66')
 	print('77')
 	print('88')
+	print('1-1')
 
 if __name__ == '__main__':
 	ceshi3()
