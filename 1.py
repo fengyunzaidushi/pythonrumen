@@ -18,6 +18,7 @@ def ceshi4():
 def feng_ceshi4():
 	print('444')
 
-
+def ceshi5():
+    print("55")
 if __name__ == '__main__':
 	ceshi3()
