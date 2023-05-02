@@ -22,6 +22,7 @@ def feng_ceshi4():
 def ceshi5():
 	print('5')
 	print('55')
+	print('66dev')
 	print('66dev1-1-rebase-1-1')
 	print('77')
 	print('88')
