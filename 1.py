@@ -1,7 +1,7 @@
 #encoding:utf-8
 
 def ceshi1():
-	print('1111')
+	print('1')
 
 def ceshi2():
 	print('2')
@@ -10,13 +10,7 @@ def ceshi3():
 	print('3')
 
 def ceshi4():
-	print('4-dev1')
-	print('41')
-
-
-
-def feng_ceshi4():
-	print('444')
+	print('4 + dev1')
 
 
 def ceshi5():
